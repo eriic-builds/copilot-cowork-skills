@@ -29,14 +29,6 @@ On-premises: File Share, ADLS Gen2, SharePoint Server (require Graph connector a
 
 On-premises connectors require installing the Microsoft Graph connector agent, which allows secure data transfer between on-premises data and connector APIs.
 
-### Licensing & pricing
-
-- **Previous**: 500 items per M365 Copilot / M365 E5 / O365 E5 / Viva Topics license (aka.ms/connectorspricing).
-- **New**:
-  - No licensing required for index quota for M365 and O365 tenants.
-  - 50M items per tenant (free).
-  - Add-on license: $1k USD per 1M items per month for additional quota.
-  - Connectors in **preview** don't count against quota. Counting begins at GA.
 
 ## Security
 
